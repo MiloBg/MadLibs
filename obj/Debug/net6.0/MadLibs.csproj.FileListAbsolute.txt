@@ -1,0 +1,15 @@
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/bin/Debug/net6.0/MadLibs
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/bin/Debug/net6.0/MadLibs.deps.json
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/bin/Debug/net6.0/MadLibs.runtimeconfig.json
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/bin/Debug/net6.0/MadLibs.dll
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/bin/Debug/net6.0/ref/MadLibs.dll
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/bin/Debug/net6.0/MadLibs.pdb
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/obj/Debug/net6.0/MadLibs.csproj.AssemblyReference.cache
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/obj/Debug/net6.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/obj/Debug/net6.0/MadLibs.AssemblyInfoInputs.cache
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/obj/Debug/net6.0/MadLibs.AssemblyInfo.cs
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/obj/Debug/net6.0/MadLibs.csproj.CoreCompileInputs.cache
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/obj/Debug/net6.0/MadLibs.dll
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/obj/Debug/net6.0/ref/MadLibs.dll
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/obj/Debug/net6.0/MadLibs.pdb
+/home/milobg/Documents/WebDevelopment/CSharp/MadLibs/obj/Debug/net6.0/MadLibs.genruntimeconfig.cache
